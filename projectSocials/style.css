@@ -57,4 +57,8 @@ img:hover{
     img{
         width: 20px;
     }
+    .social-media {
+        flex-direction: column;
+        align-items: center;
+    }
 }
